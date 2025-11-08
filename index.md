@@ -10,7 +10,7 @@ From a fundamental standpoint, there is no theory for these relationships. Thank
 (ML) approaches have been recently used as much faster surrogate models. But the simulation of the complete Proc.&rarr;Struc. is still out of reach, and ML approaches are hindered by the lack of data given the vast amount of possible process paths.
 
 **GEMPROMISE** will establish a generative active learning approach to suggest process parameters leading to targeted properties, promoting a physical and chemical understanding of
-Proc.&rarr;Struc.&rarr;Prop.&rarr;Perf., as ultimate goal. Its key ideas emerged in a synergistic brainstorming between AYMONIER (experiments), RIGNANESE (simulations), and VANDERGHEYNST (ML):
+Proc.&rarr;Struc.&rarr;Prop.&rarr;Perf., as ultimate goal. Its key ideas emerged in a synergistic brainstorming between Cyril AYMONIER (experiments), Gian-Marco RIGNANESE (simulations), and Pierre VANDERGHEYNST (ML):
 (i) a multimodal ML model will be developed to leverage experiments and simulations as direct and indirect data providers of varying quantity and quality,
 integrating these modalities through a joint latent space allowing for generation,
 (ii) a HT synthesis and characterization platform will be designed to close the loop and respond to the ML model queries, and
