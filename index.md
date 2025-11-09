@@ -11,10 +11,10 @@ From a fundamental standpoint, there is no theory for these relationships. Thank
 
 **GEMPROMISE** will establish a generative active learning approach to suggest process parameters leading to targeted properties, promoting a physical and chemical understanding of
 Proc.&rarr;Struc.&rarr;Prop.&rarr;Perf., as ultimate goal. Its key ideas emerged in a synergistic brainstorming between Cyril AYMONIER (experiments), Gian-Marco RIGNANESE (simulations), and Pierre VANDERGHEYNST (ML):
-(i) a multimodal ML model will be developed to leverage experiments and simulations as direct and indirect data providers of varying quantity and quality,
+1. a multimodal ML model will be developed to leverage experiments and simulations as direct and indirect data providers of varying quantity and quality,
 integrating these modalities through a joint latent space allowing for generation,
-(ii) a HT synthesis and characterization platform will be designed to close the loop and respond to the ML model queries, and
-(iii) a HT simulation framework will be devised for predicting Struc.&rarr;Prop. information to complement experiments.
+2. a HT synthesis and characterization platform will be designed to close the loop and respond to the ML model queries, and
+3. a HT simulation framework will be devised for predicting Struc.&rarr;Prop. information to complement experiments.
 
 To illustrate the concept, **GEMPROMISE** will give birth to a bottom-up, sustainable, and scalable method to
 produce new synthetic layered silicates with controllable band gaps. Once established, this approach can be extended to other processes, structures, properties, and hence applications.
