@@ -1,0 +1,6 @@
+baseurl: ""
+url: ""
+theme: jekyll-theme-slate
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
